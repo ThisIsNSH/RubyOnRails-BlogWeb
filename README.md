@@ -1,24 +1,17 @@
-# README
+# BlogWeb (SimpleBlog)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a practice Ruby on Rails project, which allows users to create, update & delete blog posts and comments. It also has http basic authentication. 
 
-Things you may want to cover:
+Project components:
 
-* Ruby version
+* Ruby 2.3.7p456
 
-* System dependencies
+* Ruby on Rails 5.2.2
 
-* Configuration
+* Bundler 1.17.2
+* Bootstrap
+* HTML
 
-* Database creation
+* Posts & Comments Controller
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Post & Comment Model
